@@ -1,13 +1,13 @@
 * How to install a eM Client custom design
-** Download the "*.emtheme" file
-** In eMClient go to: "Menu > Tools > Settings"
-** In the "Settings" window navigate to the "Appearance" group
-** Open the subgroup "Themes"
-** Hit the button "Import..."
-** Within the opening file explorer window, navigate to the location of the "*.emtheme" file, select the file, and klick "Open"
-** Back in the "Themes" subgroup, select under "Custom" select the imported design, hit "Apply" and exit the menu by hitting the "OK" button
-** Enjoy your new theme!
+ - Download the "*.emtheme" file
+ - In eMClient go to: "Menu > Tools > Settings"
+ - In the "Settings" window navigate to the "Appearance" group
+ - Open the subgroup "Themes"
+ - Hit the button "Import..."
+ - Within the opening file explorer window, navigate to the location of the "*.emtheme" file, select the file, and klick "Open"
+ - Back in the "Themes" subgroup, select under "Custom" select the imported design, hit "Apply" and exit the menu by hitting the "OK" button
+ - Enjoy your new theme!
 
 * Delete a custom design
-** Go to "Settings" > "Appearance" > "Themes"
-** Select the theme you want to delete, hit the "Delete" key on your keyboard, and confirm the deletion by clicking "Yes"
+ - Go to "Settings" > "Appearance" > "Themes"
+ - Select the theme you want to delete, hit the "Delete" key on your keyboard, and confirm the deletion by clicking "Yes"
