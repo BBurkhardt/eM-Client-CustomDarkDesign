@@ -1,5 +1,6 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<DarkColorTheme name="" author="">
+<?xml version="1.0" encoding="utf-8"?>
+<DarkColorTheme name="CustomDarkBlue" author="Bonhammer">
+	
   <!--Form-->
   <MainBoxBorderColor description="Color of a space around messages/contact/event/task list">#3D3E45</MainBoxBorderColor>
   <FormBackground description="Background color of all windows">#3D3E45</FormBackground>
@@ -67,17 +68,19 @@
   <MessagesMultilineSecondLineColor description="Color of a text shown on the second line for a multiline message list">#FFFFFF</MessagesMultilineSecondLineColor>
   <MessagesMultilineTimeColor description="Color of a date/time text shown on the first line for a multiline message list">#FFFFFF</MessagesMultilineTimeColor>
   <MessagesUnreadMarkerColor description="Color of a marker indicating an unread message">#FFA500</MessagesUnreadMarkerColor>
-  <!--Message detail/preview-->
-  <MailSubject description="Color of mail subject text">#1E1E1E</MailSubject>
-  <MessagePanelBackground description="Background color of the message preview panel">White</MessagePanelBackground>
+
+	<!--Message detail/preview-->
+  <MailSubject description="Color of mail subject text">#FFFFFF</MailSubject>
+  <MessagePanelBackground description="Background color of the message preview panel">#3D3E45</MessagePanelBackground>
+
   <!--Search box-->
   <SearchBoxActiveBorderColor description="Border of a search box on the main form when search is currently active">#FFA500</SearchBoxActiveBorderColor>
   <!--Mail header-->
   <MailHeaderBackground description="Background color of a bar with a basic information about the email">#F8F8F8</MailHeaderBackground>
-  <MailHeaderLink description="Color of an email address shown in the bar with a basic information about the email">#11529C</MailHeaderLink>
+  <MailHeaderLink description="Color of an email address shown in the bar with a basic information about the email">#FFA500</MailHeaderLink>
   <MailHeaderForeground description="Color of a text in the bar with a basic information about the email">#6D6D6D</MailHeaderForeground>
-  <MailLink description="Color of links in an email">#0000EE</MailLink>
-  <MailLinkVisited description="Color of visited links in an email">#551A8B</MailLinkVisited>
+  <MailLink description="Color of links in an email">#567BBF</MailLink>
+  <MailLinkVisited description="Color of visited links in an email">#1047AA</MailLinkVisited>
   <!--Grid-->
   <GridHeaderStart description="Starting color of the gradient used for the column headers in datagrid">#3D3E45</GridHeaderStart>
   <GridHeaderMiddle description="Middle color of the gradient used for the column headers in datagrid">#3D3E45</GridHeaderMiddle>
@@ -224,7 +227,8 @@
   <TreeViewSelectedInactiveItemBorder description="Color of the border line for the selected item in a tree structure when it is not active">Transparent</TreeViewSelectedInactiveItemBorder>
   <TreeViewNodeShowMoreForeground description="Text color for the 'More...' node in a tree structure">#11529C</TreeViewNodeShowMoreForeground>
   <UseRoundedCornersForTreeViewSelection description="Specifies if a background for selected items in a tree structure should be drawn with rounded corners">False</UseRoundedCornersForTreeViewSelection>
-  <!--Tree structure in main window-->
+
+	<!--Tree structure in main  window-->
   <MainFormTreeViewFirstLevelForeground description="Text color for the first-level text in a tree structure in the main window">#FFFFFF</MainFormTreeViewFirstLevelForeground>
   <MainFormTreeViewForeground description="Text color of a tree structure in the main window">#EEEEEE</MainFormTreeViewForeground>
   <MainFormTreeViewSelectedInactiveItemForeground description="Text color for the selected item in a tree structure in the main window when it is not active">#FFFFFF</MainFormTreeViewSelectedInactiveItemForeground>
@@ -238,7 +242,7 @@
   <!--Unread counts-->
   <UnreadCountBackground description="Background color for an information about unread messages count in a folder">Transparent</UnreadCountBackground>
   <UnreadCountWarningBackground description="Background color for an information about unread messages count in a folder if there is a warning">Transparent</UnreadCountWarningBackground>
-  <UnreadCountForeground description="Text color for an information about unread messages count in a folder">#FFFFFF</UnreadCountForeground>
+  <UnreadCountForeground description="Text color for an information about unread messages count in a folder">#FFA500</UnreadCountForeground>
   <UnreadCountWarningForeground description="Text color for an information about unread messages count in a folder if there is a warning">#DC143C</UnreadCountWarningForeground>
   <!--Attachments-->
   <UseRoundedCornersForAttachmentSelection description="Specifies if a background for attachment in a bar with attachments should be drawn with rounded corners">False</UseRoundedCornersForAttachmentSelection>
