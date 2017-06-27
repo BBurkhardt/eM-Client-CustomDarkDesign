@@ -80,7 +80,7 @@
   <MailHeaderLink description="Color of an email address shown in the bar with a basic information about the email">#FFA500</MailHeaderLink>
   <MailHeaderForeground description="Color of a text in the bar with a basic information about the email">#6D6D6D</MailHeaderForeground>
   <MailLink description="Color of links in an email">#567BBF</MailLink>
-  <MailLinkVisited description="Color of visited links in an email">#1047AA</MailLinkVisited>
+  <MailLinkVisited description="Color of visited links in an email">#3560AF</MailLinkVisited>
   <!--Grid-->
   <GridHeaderStart description="Starting color of the gradient used for the column headers in datagrid">#3D3E45</GridHeaderStart>
   <GridHeaderMiddle description="Middle color of the gradient used for the column headers in datagrid">#3D3E45</GridHeaderMiddle>
