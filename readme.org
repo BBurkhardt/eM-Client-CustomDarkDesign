@@ -1,4 +1,4 @@
-* How to install a eM Client custom design
+* How to install an eM Client custom design
  - Download the "*.emtheme" file
  - In eMClient go to: "Menu > Tools > Settings"
  - In the "Settings" window navigate to the "Appearance" group
@@ -6,7 +6,29 @@
  - Hit the button "Import..."
  - Within the opening file explorer window, navigate to the location of the "*.emtheme" file, select the file, and klick "Open"
  - Back in the "Themes" subgroup, select under "Custom" select the imported design, hit "Apply" and exit the menu by hitting the "OK" button
+
+
+* Additional settings:
+ To create a more consistent look when using the theme, you may also want to change want to change the background and font color in the email preview/reading area. To do that:
+
+** Background Color
+
+ 	- Go to "Menu > Tools > Settings"
+ 	- Open the subgroup "Mail > Read"
+ 	- Under "Preferred Style" click the button "Change..." behind "Preferred background color"
+ 	- In the new dialog window hit the "Define color" button.
+ 	- In the next window enter the following values: Red: 61, Green: 62, Blue: 69
+ 	- Klick "Add color"
+ 	- Select the color from the user defined colors palette and hit "Ok"
+
+** Font Color
+
+ - Under "Preferred Style" click the button "Change..." behind "Preferred text color"
+ - From the palette of predefined colors select White in the lower right corner of the palette
+ - Hit "Ok" in the "Settings" window
+
  - Enjoy your new theme!
+
 
 * Delete a custom design
  - Go to "Settings" > "Appearance" > "Themes"
